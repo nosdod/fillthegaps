@@ -10,12 +10,13 @@ One of the nurseries is edulis.co.uk. Their website is missing pictures for load
 So the challenge is ....
 
 ‘Fill the gaps’
-•	Find the plants for which no image is displayed
-•	Search the web for a ‘stock’ image of the plant
-•	Render the website page with the missing images filled in
+* Find the plants for which no image is displayed
+* Search the web for a ‘stock’ image of the plant
+* Render the website page with the missing images filled in
+
 Extras
-•	Allow multiple stock images to be found and rendered
-•	Make it work for any website with missing images
+* Allow multiple stock images to be found and rendered
+* Make it work for any website with missing images
 
 Anna reckons something like this can be done using Nightwatch (UI testing tool), and I’m undecided yet as to the angle I’m going for.
 
